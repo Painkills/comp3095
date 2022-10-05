@@ -19,8 +19,8 @@
     <dependencies>
         <!--pet clinic data dependency-->
         <dependency>
-            <groupId>ca.gbc.comp3095</groupId>
             <artifactId>pet-clinic-data</artifactId>
+            <groupId>ca.gbc.comp3095</groupId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
