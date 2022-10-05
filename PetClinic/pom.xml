@@ -14,7 +14,7 @@
     </parent>
     <groupId>ca.gbc.comp3095</groupId>
     <artifactId>PetClinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>PetClinic</name>
     <description>PetClinic</description>
     <properties>
@@ -23,7 +23,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/Painkills/comp3095.git</developerConnection>
-        <tag>PetClinic-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
